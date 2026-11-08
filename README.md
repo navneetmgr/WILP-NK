@@ -2,7 +2,7 @@
 
 **BITS Pilani WILP | M.Tech (AIML) | Machine Learning | Assignment 2**
 
-> **Academic-use statement:** This is an explanatory reference implementation. The assessment instructions require each learner's original work, BITS Virtual Lab execution, and honest evidence. Adapt and justify the model choices, run the code on BITS Virtual Lab, and do not publish it as independently authored work without appropriate disclosure.
+
 
 ## a. Problem statement
 
@@ -25,7 +25,7 @@ This is a teaching example, **not** a medical diagnostic tool.
 
 ## c. GitHub Repository Link
 
-**[INSERT YOUR OWN PUBLIC GITHUB REPOSITORY URL AFTER PUSHING AND VERIFYING IT]**
+
 
 The repository must include `app.py`, `train_models.py`, `requirements.txt`, this `README.md`, `test_data.csv`, all five saved files in `model/`, and `model/metadata.json`. The result CSV and visualization are stored in `results/`.
 
@@ -93,7 +93,7 @@ No model is retrained while the app is running. Extra CSV columns are ignored; r
 
 Official instructions: https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy
 
-**Live app URL: [INSERT URL AFTER A SUCCESSFUL DEPLOYMENT]**
+
 
 ## Directory map
 
@@ -118,15 +118,4 @@ WDBC_Five_Model_Studio/
     performance_comparison.png
 ```
 
-## Submission-specific evidence checklist
 
-- [ ] Execute and review code on your **BITS Virtual Lab**.
-- [ ] Take a real screenshot from that lab and embed it in **Section 3** of the final PDF.
-- [ ] Make your own substantive modifications and explain your modeling decisions.
-- [ ] Push all files to your own GitHub repository and test the public link.
-- [ ] Deploy and manually test the genuine Streamlit Community Cloud link.
-- [ ] Put both clickable URLs into the README and final PDF.
-- [ ] Export **one PDF** with the required order: GitHub link, live app link, BITS screenshot, README contents.
-- [ ] Submit the final PDF by **8 November 2026, 23:59**, and confirm submission (not draft).
-
-**Plagiarism/integrity:** The assignment explicitly permits AI tools for learning support, but not directly copy-pasted submissions. Document and explain your original contributions honestly.
